@@ -16,8 +16,8 @@ export default function Auth () {
       <div className='w-96 h-screen flex justify-center items-center py-10 flex-col'>
         <div className='w-full p-10'>
 
-          <div className=''>
-            <h1 className='font-extrabold text-5xl italic text-center'>INSTADREAM</h1>
+          <div className='p-2'>
+            <h1 className='font-extrabold text-5xl italic text-center'>Solaris</h1>
           </div>
 
           <div className='w-full mb-5'>
