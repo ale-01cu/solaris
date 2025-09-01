@@ -1,6 +1,6 @@
-# Instadream
+# Solaris
 
-Instadream is a full-stack web application inspired by Instagram, built with a modern technology stack. It features a complete backend API using Node.js and GraphQL, and a responsive frontend client built with React and NextUI.
+Solaris is a full-stack web application inspired by Instagram, built with a modern technology stack. It features a complete backend API using Node.js and GraphQL, and a responsive frontend client built with React and NextUI.
 
 ## Features
 
